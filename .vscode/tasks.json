@@ -10,7 +10,8 @@
 				"-Iinclude",
 				"src/*.cc",
 				"-o",
-				"bin/pointers.exe"
+				"bin/pointers.exe",
+				"-Llib"
 			],
 			"options": {
 				"cwd": "${workspaceFolder}"
